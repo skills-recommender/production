@@ -1,0 +1,1 @@
+Model size is large, cannot be stored in github. So this trained model we will be directly added in huggingface website, where app is hosted.
