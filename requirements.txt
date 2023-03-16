@@ -7,3 +7,5 @@ pip install sentence_transformers
 pip install bertopic
 pip install seqeval
 pip install spacy
+pip install requests
+pip install beautifulsoup4
